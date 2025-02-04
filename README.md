@@ -84,7 +84,7 @@ https://github.com/user-attachments/assets/cd1f4fb7-e784-4a46-aaa0-ce55e272b4e8
 
 
 
-## **Roadmap**
+## 🎯 **Roadmap**
 - [ ] PDF Output Generation
 - [ ] Custom Resume Templates
 - [ ] API Integration for job platforms (Linkedin, Indeed, etc)
