@@ -76,8 +76,8 @@ pip install crewai[tools]
 ## **Demo**
 
 
-https://github.com/user-attachments/assets/5d17a7e5-ad59-4b6a-911c-2057a7fb4501
 
+https://github.com/user-attachments/assets/cd1f4fb7-e784-4a46-aaa0-ce55e272b4e8
 
 
 
@@ -85,6 +85,6 @@ https://github.com/user-attachments/assets/5d17a7e5-ad59-4b6a-911c-2057a7fb4501
 
 
 ## **Roadmap**
-- [] PDF Output Generation
-- [] Custom Resume Templates
-- [] API Integration for job platforms (Linkedin, Indeed, etc)
+- [ ] PDF Output Generation
+- [ ] Custom Resume Templates
+- [ ] API Integration for job platforms (Linkedin, Indeed, etc)
