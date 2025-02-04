@@ -1,21 +1,30 @@
-# Multi-Agent-AI-Apply-Tool
-Tailor your job application with AI. Upload your resume, provide a job description, and let AI optimize your resume, create a cover letter to perfectly match the role and guide you through a technical interview.
-# **AI Apply Tool** 🧠📄  
-### 🚀 AI-powered Resume & Cover Letter Generator  
 
-**AI Apply Tool** is an intelligent multi-agent system that optimize your resume, creates a cover letter to perfectly match the role and guides you through a technical interview.  
-Simply **upload your resume**, **provide a job description URL**, and let AI handle the rest.  
+# **AI Apply Tool** 🧠📄  
+
+AI Apply Tool is an intelligent multi-agent system designed to craft the perfect resume and cover letter tailored to your target job. It also guides you through technical interview preparation with a structured to-do list.
+Simply upload your resume, provide a job description URL, and let AI take care of the rest! 🚀
 
 ---
 
 ## **📌 Features**
-✅ **Job Description Analysis** → Extracts key job requirements to optimize your resume.  
-✅ **Resume Optimization** → Highlights the most relevant experience and skills.  
-✅ **Cover Letter Generation** → Creates a tailored, ATS-friendly cover letter.  
-✅ **Interview Preparation** → Generates AI-driven interview tips based on the job description.  
-✅ **Quality Assurance (QA) Check** → Ensures there are **no placeholders** or missing details.  
-✅ **Modern Streamlit UI** → **Dark mode, gold accents, smooth animations**.  
-✅ **Live Preview & Download** → View and download your documents directly from the UI.  
+✅ **Smart Job Description Analysis**  
+- Extracts key job requirements and identifies critical skills, experience, and qualifications needed for the role.  
+
+✅ **AI-Powered Resume Generation**  
+- Dynamically tailors your resume to match the job description.  
+- Selects only the most relevant experiences and projects to fit on a single page (ATS-friendly format).
+
+✅ **Personalized Cover Letter Generation**  
+- Crafts a compelling, tailored cover letter that highlights your strengths.  
+- Ensures no placeholders or irrelevant information—only real, impactful content.
+
+✅ **AI-Driven Interview Preparation**  
+- Generates a structured list of key topics and concepts you should master.  
+- Focuses on technical interview questions related to the job role.
+
+✅ **Live Preview, Edit & Download**  
+- Instantly preview your Resume, Cover Letter, and Interview Guide in a tabbed UI.  
+- Edit directly from the interface before downloading your final application documents.
 
 ---
 
@@ -33,7 +42,7 @@ The **AI Apply Tool** is powered by **CrewAI**, a multi-agent system where each 
 - **Output**: A structured **profile document** used for resume tailoring.
 
 ### **3️⃣ Resume Strategist 📝**
-- **Role**: Optimizes the candidate’s resume based on the job description.  
+- **Role**: Creates the candidate’s resume based on the job description and his profile.  
 - **Goal**: Highlight only the **most relevant** experience, skills, and projects.  
 - **Rules**:
   - **No placeholders** or fake information.  
@@ -60,10 +69,18 @@ The **AI Apply Tool** is powered by **CrewAI**, a multi-agent system where each 
 ## **How to Run**
 First you will have to install al the dependencies for the CrewAI Tool by running 
 
+```bash
+pip install crewai[tools]
+```
+
 ## **Demo**
 
 
-https://github.com/user-attachments/assets/954ef50f-cf8f-4a7d-8354-b5dab3637cd4
+https://github.com/user-attachments/assets/5d17a7e5-ad59-4b6a-911c-2057a7fb4501
+
+
+
+
 
 
 
